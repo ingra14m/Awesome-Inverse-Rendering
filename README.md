@@ -8,13 +8,13 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 ## Table of contents
 
-
+<br>
 
 ## What is Inverse Rendering
 
 
 
-
+<br>
 
 ## NeRF-based Inverse Rendering
 
@@ -136,7 +136,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2305.17398) | [🌐 Project Page](https://liuyuan-pal.github.io/NeRO/) | [💻 Code](https://github.com/liuyuan-pal/NeRO) 
 
-
+<br>
 
 ## IDR-based Inverse Rendering
 
@@ -162,7 +162,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2204.06837) | [🌐 Project Page](https://zju3dv.github.io/invrender/) | [💻 Code](https://github.com/zju3dv/InvRender) 
 
-
+<br>
 
 ## DMTet-based Inverse Rendering
 
@@ -184,7 +184,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2206.03380) | [🌐 Project Page](https://nvlabs.github.io/nvdiffrecmc/) | [💻 Code](https://github.com/NVlabs/nvdiffrecmc) 
 
-
+<br>
 
 ## TensoRF-based Inverse Rendering
 
@@ -196,7 +196,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2304.12461) | [🌐 Project Page](https://haian-jin.github.io/TensoIR/) | [💻 Code](https://github.com/Haian-Jin/TensoIR) 
 
-
+<br>
 
 ## 3D Gaussian Splatting-based Inverse Rendering
 
