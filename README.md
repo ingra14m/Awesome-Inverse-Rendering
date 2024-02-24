@@ -8,6 +8,10 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 ## Table of contents
 
+- [What is Inverse Rendering](#what-is-inverse-rendering)
+<br>
+- [NeRF-based Inverse Rendering](#neRF-based-inverse-rendering)
+
 <br>
 
 ## What is Inverse Rendering
