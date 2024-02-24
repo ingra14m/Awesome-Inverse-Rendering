@@ -15,11 +15,9 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 - [TensoRF-based Inverse Rendering](#tensorf-based-inverse-rendering)
 - [3D Gaussian Splatting-based Inverse Rendering](#3d-gaussian-splatting-based-inverse-rendering)
 
-<br>
-
 ## What is Inverse Rendering
 
-
+- [ ] TODO
 
 <br>
 
@@ -216,4 +214,28 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 **Publication**: Under review
 
 [📄 Paper](https://arxiv.org/abs/2204.06837) | [🌐 Project Page](https://zju3dv.github.io/invrender/) | [💻 Code](https://github.com/zju3dv/InvRender) 
+
+### 2. GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces
+
+**Authors**: Yingwenqi Jiang, Jiadong Tu, Yuan Liu, Xifeng Gao, Xiaoxiao Long, Wenping Wang, Yuexin Ma
+
+**Publication**: Under review
+
+[📄 Paper](https://arxiv.org/abs/2311.17977) | [🌐 Project Page](https://asparagus15.github.io/GaussianShader.github.io/) | [💻 Code](https://github.com/Asparagus15/GaussianShader)
+
+### 3. GS-IR: 3D Gaussian Splatting for Inverse Rendering
+
+**Authors**: Zhihao Liang, Qi Zhang, Ying Feng, Ying Shan, Kui Jia
+
+**Publication**: Under review
+
+[📄 Paper](https://arxiv.org/abs/2311.16473) | [🌐 Project Page](https://lzhnb.github.io/project-pages/gs-ir.html) | [💻 Code](https://github.com/lzhnb/GS-IR)
+
+### 4. GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization
+
+**Authors**:  Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang
+
+**Publication**: Under review
+
+[📄 Paper](https://arxiv.org/abs/2312.05133) | [🌐 Project Page](https://3dgir.github.io/) | [💻 Code (Not yet)]()
 
