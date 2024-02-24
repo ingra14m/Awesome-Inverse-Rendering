@@ -9,8 +9,11 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 ## Table of contents
 
 - [What is Inverse Rendering](#what-is-inverse-rendering)
-<br>
-- [NeRF-based Inverse Rendering](#neRF-based-inverse-rendering)
+- [NeRF-based Inverse Rendering](#nerf-based-inverse-rendering)
+- [IDR-based Inverse Rendering](#idr-based-inverse-rendering)
+- [DMTet-based Inverse Rendering](#dmtet-based-inverse-rendering)
+- [TensoRF-based Inverse Rendering](#tensorf-based-inverse-rendering)
+- [3D Gaussian Splatting-based Inverse Rendering](#3d-gaussian-splatting-based-inverse-rendering)
 
 <br>
 
