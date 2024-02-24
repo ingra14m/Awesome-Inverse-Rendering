@@ -141,6 +141,18 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2305.17398) | [🌐 Project Page](https://liuyuan-pal.github.io/NeRO/) | [💻 Code](https://github.com/liuyuan-pal/NeRO) 
 
+
+
+### 12. SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes
+
+**Authors**: Ziyi Yang, Yanzhen Chen, Xinyu Gao, Yazhen Yuan, Yu Wu, Xiaowei Zhou, Xiaogang Jin
+
+**Publication**: It will never be accepted loll
+
+**Note**: This is the first paper that directly faces the issue of shadows and materials being unable to be decoupled under strong lighting conditions. The ACES non-linear mapping is crucial for the removal of shadows and indirect illumination.
+
+[📄 Paper](https://arxiv.org/abs/2310.13030) | [💻 Code](https://github.com/ingra14m/SIRe-IR) 
+
 <br>
 
 ## IDR-based Inverse Rendering
