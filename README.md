@@ -10,9 +10,11 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 - [What is Inverse Rendering](#what-is-inverse-rendering)
 - [NeRF-based Inverse Rendering](#nerf-based-inverse-rendering)
+- [NeuS-based Inverse Rendering](#neus-based-inverse-rendering)
 - [IDR-based Inverse Rendering](#idr-based-inverse-rendering)
 - [DMTet-based Inverse Rendering](#dmtet-based-inverse-rendering)
 - [TensoRF-based Inverse Rendering](#tensorf-based-inverse-rendering)
+- [Diffusion Prior](#diffusion-prior)
 - [3D Gaussian Splatting-based Inverse Rendering](#3d-gaussian-splatting-based-inverse-rendering)
 
 ## What is Inverse Rendering
@@ -49,7 +51,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**: Julian Knodt, Joe Bartusek, Seung-Hwan Baek, Felix Heide
 
-**Publication**: Arxiv
+**Publication**: Arxiv 2021
 
 [📄 Paper](https://arxiv.org/abs/2104.13562) | [💻 Code](https://github.com/princeton-computational-imaging/neural_raytracing) 
 
@@ -59,7 +61,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**: Xiuming Zhang, Pratul P. Srinivasan, Boyang Deng, Paul Debevec, William T. Freeman, Jonathan T. Barron
 
-**Publication**: Siggraph Asia 2021
+**Publication**: SIGGRAPH Asia 2021
 
 **Note**: It is undoubtedly an awesome piece of work. "Normal Smoothness" originates from this article. My only regret is that I think the authors were aware that the IR framework based on NeRF struggles to decouple shadows and materials, but they did not mention this in the Limitations section. Their scenarios of **reducing light intensity** (Not the same as vanilla NeRF scenes with obvious shadow and indirect illumination) still impacted many subsequent works that focused on novel view synthesis rather than the accuracy of material decoupling. This is very important for relighting to remove artifacts.
 
@@ -77,19 +79,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 
 
-### 6. IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images
-
-**Authors**: Kai Zhang, Fujun Luan, Zhengqi Li, Noah Snavely
-
-**Publication**: **CVPR 2022 (Oral)**
-
-**Note**: Based on NeuS.
-
-[📄 Paper](https://arxiv.org/abs/2204.02232) | [🌐 Project Page](https://kai-46.github.io/IRON-website/) | [💻 Code](https://github.com/Kai-46/IRON) 
-
-
-
-### 7. PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo
+### 6. PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo
 
 **Authors**: Wenqi Yang, Guanying Chen, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong
 
@@ -99,7 +89,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 
 
-### 8. NeILF: Neural Incident Light Field for Physically-based Material Estimation
+### 7. NeILF: Neural Incident Light Field for Physically-based Material Estimation
 
 **Authors**: Yao Yao, Jingyang Zhang, Jingbo Liu, Yihang Qu, Tian Fang, David McKinnon, Yanghai Tsin, Long Quan
 
@@ -109,7 +99,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 
 
-### 9. L-Tracing: Fast Light Visibility Estimation on Neural Surfaces by Sphere Tracing
+### 8. L-Tracing: Fast Light Visibility Estimation on Neural Surfaces by Sphere Tracing
 
 **Authors**: Ziyu Chen, Chenjing Ding, Jianfei Guo, Dongliang Wang, Yikang Li, Xuan Xiao, Wei Wu, Li Song
 
@@ -121,7 +111,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 
 
-### 10. SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections
+### 9. SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections
 
 **Authors**: Mark Boss, Andreas Engelhardt, Abhishek Kar, Yuanzhen Li, Deqing Sun, Jonathan T. Barron, Hendrik P. A. Lensch, Varun Jampani
 
@@ -129,13 +119,25 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2205.15768) | [🌐 Project Page](https://markboss.me/publication/2022-samurai/) | [💻 Code](https://github.com/google/samurai) 
 
+<br>
 
+## NeuS-based Inverse Rendering
 
-### 11. NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images
+### 1. IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images
+
+**Authors**: Kai Zhang, Fujun Luan, Zhengqi Li, Noah Snavely
+
+**Publication**: **CVPR 2022 (Oral)**
+
+**Note**: Based on NeuS.
+
+[📄 Paper](https://arxiv.org/abs/2204.02232) | [🌐 Project Page](https://kai-46.github.io/IRON-website/) | [💻 Code](https://github.com/Kai-46/IRON) 
+
+### 2. NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images
 
 **Authors**: Yuan Liu, Peng Wang, Cheng Lin, Xiaoxiao Long, Jiepeng Wang, Lingjie Liu, Taku Komura, Wenping Wang
 
-**Publication**: Siggraph 2023
+**Publication**: SIGGRAPH 2023
 
 **Note**: Apply **split-sum** to constrain the learning of **reflective scenes**.
 
@@ -143,7 +145,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 
 
-### 12. SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes
+### 3. SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes
 
 **Authors**: Ziyi Yang, Yanzhen Chen, Xinyu Gao, Yazhen Yuan, Yu Wu, Xiaowei Zhou, Xiaogang Jin
 
@@ -152,6 +154,16 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 **Note**: This is the first paper that directly faces the issue of shadows and materials being unable to be decoupled under strong lighting conditions. The ACES non-linear mapping is crucial for the removal of shadows and indirect illumination.
 
 [📄 Paper](https://arxiv.org/abs/2310.13030) | [💻 Code](https://github.com/ingra14m/SIRe-IR) 
+
+
+
+### 4. Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields (NeP)
+
+**Authors**: Haoyuan Wang, Wenbo Hu, Lei Zhu, Rynson W.H. Lau
+
+**Publication**: CVPR 2024
+
+[📄 Paper]() | [🌐 Project Page](https://www.whyy.site/paper/nep) | [💻 Code](https://github.com/onpix/NeP) 
 
 <br>
 
@@ -212,6 +224,18 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 **Publication**: CVPR 2023
 
 [📄 Paper](https://arxiv.org/abs/2304.12461) | [🌐 Project Page](https://haian-jin.github.io/TensoIR/) | [💻 Code](https://github.com/Haian-Jin/TensoIR) 
+
+<br>
+
+## Diffusion Prior
+
+### 1. Diffusion Posterior Illumination for Ambiguity-aware Inverse Rendering (DPI)
+
+**Authors**: Linjie Lyu, Ayush Tewari, Marc Habermann, Shunsuke Saito, Michael Zollhöfer, Thomas Leimkühler, Christian Theobalt
+
+**Publication**: SIGGRAPH Asia 2023
+
+[📄 Paper](https://arxiv.org/abs/2310.00362) | [🌐 Project Page](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/) | [💻 Code](https://github.com/LinjieLyu/DPI)
 
 <br>
 
