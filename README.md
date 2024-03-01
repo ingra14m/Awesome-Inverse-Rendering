@@ -225,7 +225,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Publication**: Under review
 
-[📄 Paper](https://arxiv.org/abs/2204.06837) | [🌐 Project Page](https://zju3dv.github.io/invrender/) | [💻 Code](https://github.com/zju3dv/InvRender) 
+[📄 Paper](https://arxiv.org/abs/2311.16043) | [🌐 Project Page](https://nju-3dv.github.io/projects/Relightable3DGaussian/) | [💻 Code](https://github.com/NJU-3DV/Relightable3DGaussian) 
 
 ### 2. GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces
 
