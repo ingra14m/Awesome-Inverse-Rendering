@@ -247,7 +247,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**: Jian Gao, Chun Gu, Youtian Lin, Hao Zhu, Xun Cao, Li Zhang, Yao Yao
 
-**Publication**: Under review
+**Publication**: Arxiv 2023
 
 [📄 Paper](https://arxiv.org/abs/2311.16043) | [🌐 Project Page](https://nju-3dv.github.io/projects/Relightable3DGaussian/) | [💻 Code](https://github.com/NJU-3DV/Relightable3DGaussian) 
 
@@ -255,7 +255,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**: Yingwenqi Jiang, Jiadong Tu, Yuan Liu, Xifeng Gao, Xiaoxiao Long, Wenping Wang, Yuexin Ma
 
-**Publication**: Under review
+**Publication**: CVPR 2024
 
 [📄 Paper](https://arxiv.org/abs/2311.17977) | [🌐 Project Page](https://asparagus15.github.io/GaussianShader.github.io/) | [💻 Code](https://github.com/Asparagus15/GaussianShader)
 
@@ -263,7 +263,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**: Zhihao Liang, Qi Zhang, Ying Feng, Ying Shan, Kui Jia
 
-**Publication**: Under review
+**Publication**: CVPR 2024
 
 [📄 Paper](https://arxiv.org/abs/2311.16473) | [🌐 Project Page](https://lzhnb.github.io/project-pages/gs-ir.html) | [💻 Code](https://github.com/lzhnb/GS-IR)
 
@@ -271,7 +271,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**:  Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang
 
-**Publication**: Under review
+**Publication**: Arxiv 2023
 
 [📄 Paper](https://arxiv.org/abs/2312.05133) | [🌐 Project Page](https://3dgir.github.io/) | [💻 Code (Not yet)]()
 
