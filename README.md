@@ -15,7 +15,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 - [DMTet-based Inverse Rendering](#dmtet-based-inverse-rendering)
 - [TensoRF-based Inverse Rendering](#tensorf-based-inverse-rendering)
 - [Diffusion Prior](#diffusion-prior)
-- [3D Gaussian Splatting-based Inverse Rendering](#3d-gaussian-splatting-based-inverse-rendering)
+- [Point-based Inverse Rendering](#point-based-inverse-rendering)
 
 ## What is Inverse Rendering
 
@@ -239,7 +239,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 <br>
 
-## 3D Gaussian Splatting-based Inverse Rendering
+## Point-based Inverse Rendering
 
 > From my perspective, I believe that high-quality inverse rendering from a collection of images cannot be achieved with 3D-GS. This is because 3D-GS **lacks robust geometry**, which is fatal for IR. It directly affects the estimation of visibility, limiting the ablitity of decoupling shadows and materials.
 
@@ -274,4 +274,12 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 **Publication**: Arxiv 2023
 
 [📄 Paper](https://arxiv.org/abs/2312.05133) | [🌐 Project Page](https://3dgir.github.io/) | [💻 Code (Not yet)]()
+
+### 5. Differentiable Point-based Inverse Rendering
+
+**Authors**: Hoon-Gyu Chung, Seokjun Choi, Seung-Hwan Baek
+
+**Publication**: CVPR 2024
+
+[📄 Paper](https://arxiv.org/abs/2312.02480) | [🌐 Project Page](https://hg-chung.github.io/DPIR/) | [💻 Code](https://github.com/hg-chung/DPIR)
 
