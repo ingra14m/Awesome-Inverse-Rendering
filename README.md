@@ -237,6 +237,18 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2310.00362) | [🌐 Project Page](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/) | [💻 Code](https://github.com/LinjieLyu/DPI)
 
+
+
+### 2. IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination
+
+**Authors**: Xi Chen, Sida Peng, Dongchen Yang, Yuan Liu, Bowen Pan, Chengfei Lv, Xiaowei Zhou
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2404.11593) | [🌐 Project Page](https://zju3dv.github.io/IntrinsicAnything/) | [💻 Code]()
+
+
+
 <br>
 
 ## Point-based Inverse Rendering
