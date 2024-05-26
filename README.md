@@ -225,6 +225,14 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2304.12461) | [🌐 Project Page](https://haian-jin.github.io/TensoIR/) | [💻 Code](https://github.com/Haian-Jin/TensoIR) 
 
+### 2. TensoSDF: Roughness-aware Tensorial Representation for Robust Geometry and Material Reconstruction
+
+**Authors**: Jia Li, Lu Wang, Lei Zhang, Beibei Wang
+
+**Publication**: SIGGRAPH 2024
+
+[📄 Paper](https://arxiv.org/abs/2402.02771) | [🌐 Project Page](https://wangningbei.github.io/2024/TensoSDF.html) | [💻 Code](https://github.com/Riga2/TensoSDF) 
+
 <br>
 
 ## Diffusion Prior
