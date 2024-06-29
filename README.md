@@ -246,7 +246,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2406.16360) | [🌐 Project Page](https://brabbitdousha.github.io/MIRReS/) | [💻 Code](https://github.com/brabbitdousha/MIRReS) 
 
-
+<br>
 
 ## Diffusion Prior
 
