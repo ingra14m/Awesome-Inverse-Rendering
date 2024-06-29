@@ -14,6 +14,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 - [IDR-based Inverse Rendering](#idr-based-inverse-rendering)
 - [DMTet-based Inverse Rendering](#dmtet-based-inverse-rendering)
 - [TensoRF-based Inverse Rendering](#tensorf-based-inverse-rendering)
+- [Instant-NGP-based Inverse Rendering](#instant-ngp-based-inverse-rendering)
 - [Diffusion Prior](#diffusion-prior)
 - [Point-based Inverse Rendering](#point-based-inverse-rendering)
 
@@ -234,6 +235,18 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 [📄 Paper](https://arxiv.org/abs/2402.02771) | [🌐 Project Page](https://wangningbei.github.io/2024/TensoSDF.html) | [💻 Code](https://github.com/Riga2/TensoSDF) 
 
 <br>
+
+## Instant-NGP-based-Inverse-Rendering
+
+### 1. MIRReS: Multi-bounce Inverse Rendering using Reservoir Sampling
+
+**Authors**: Yuxin Dai, Qi Wang, Jingsen Zhu, Dianbing Xi, Yuchi Huo, Chen Qian, Ying He
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2406.16360) | [🌐 Project Page](https://brabbitdousha.github.io/MIRReS/) | [💻 Code](https://github.com/brabbitdousha/MIRReS) 
+
+
 
 ## Diffusion Prior
 
