@@ -316,3 +316,18 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 [📄 Paper](https://arxiv.org/abs/2312.02480) | [🌐 Project Page](https://hg-chung.github.io/DPIR/) | [💻 Code](https://github.com/hg-chung/DPIR)
 
+### 6. NieR: Normal-Based Lighting Scene Rendering
+
+**Authors**: Hongsheng Wang, Yang Wang, Yalan Liu, Fayuan Hu, Shengyu Zhang, Fei Wu, Feng Lin
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/pdf/2405.13097) | [🌐 Project Page](https://wanghongsheng01.github.io/NieR/) | [💻 Code](https://github.com/3DHumanRehab/NieR)
+
+### 7. GS-ROR: 3D Gaussian Splatting for Reflective Object Relighting via SDF Priors
+
+**Authors**: Zuoliang Zhu， Beibei Wang, Jian Yang
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/pdf/2406.18544)
