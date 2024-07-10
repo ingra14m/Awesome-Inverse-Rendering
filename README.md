@@ -280,7 +280,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**: Jian Gao, Chun Gu, Youtian Lin, Hao Zhu, Xun Cao, Li Zhang, Yao Yao
 
-**Publication**: Arxiv 2023
+**Publication**: ECCV 2024
 
 [📄 Paper](https://arxiv.org/abs/2311.16043) | [🌐 Project Page](https://nju-3dv.github.io/projects/Relightable3DGaussian/) | [💻 Code](https://github.com/NJU-3DV/Relightable3DGaussian) 
 
