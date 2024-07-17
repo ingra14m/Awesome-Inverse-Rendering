@@ -264,7 +264,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 
 **Authors**: Xi Chen, Sida Peng, Dongchen Yang, Yuan Liu, Bowen Pan, Chengfei Lv, Xiaowei Zhou
 
-**Publication**: Arxiv 2024
+**Publication**: ECCV 2024
 
 [📄 Paper](https://arxiv.org/abs/2404.11593) | [🌐 Project Page](https://zju3dv.github.io/IntrinsicAnything/) | [💻 Code]()
 
