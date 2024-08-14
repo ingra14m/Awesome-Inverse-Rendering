@@ -4,6 +4,12 @@ This repo collects papers that use **implicit representation** for inverse rende
 
 Part of this repo is referenced from [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering/). Thanks to the author for the outstanding contribution.
 
+> **Q**: What type of papers should be included in this repository?
+>
+> **A:** We require papers that explicitly include a **rendering equation** in their methods. For example, even though methods like [GS-DR](https://arxiv.org/abs/2404.18454) involve parameters like albedo, roughness, and environment maps, they do not utilize a rendering equation and therefore are not considered strict inverse rendering techniques. 
+>
+> On the other hand, paper like [NeRO](https://liuyuan-pal.github.io/NeRO/), which addresses reflective scenes by incorporating the rendering equation (e.g., through the split-sum approximation), falls within the scope of our repository.
+
 
 
 ## Table of contents
