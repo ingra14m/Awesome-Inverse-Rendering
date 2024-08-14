@@ -24,9 +24,13 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 - [Diffusion Prior](#diffusion-prior)
 - [Point-based Inverse Rendering](#point-based-inverse-rendering)
 
-## What is Inverse Rendering
+## What is (Neural) Inverse Rendering
 
-- [ ] TODO
+Inverse rendering often involves the use of neural networks to approximate the mapping from images to the underlying 3D scene properties. This can include:
+
+1. **Geometry Estimation:** Reconstructing the 3D shape or surface of the objects in the scene.
+2. **Material and Texture Estimation:** Determining the surface properties, such as albedo, roughness, and metallic of the objects.
+3. **Lighting Estimation:** Inferring the lighting conditions, including the positions and intensities of light sources that illuminate the scene.
 
 <br>
 
