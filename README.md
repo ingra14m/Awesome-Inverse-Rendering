@@ -174,7 +174,17 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 **Publication**: CVPR 2024
 
-[📄 Paper]() | [🌐 Project Page](https://www.whyy.site/paper/nep) | [💻 Code](https://github.com/onpix/NeP) 
+[📄 Paper](https://arxiv.org/abs/2403.16224) | [🌐 Project Page](https://www.whyy.site/paper/nep) | [💻 Code](https://github.com/onpix/NeP)
+
+
+
+ ### 5. PBIR-NIE: Glossy Object Capture under Non-Distant Lighting
+
+**Authors**: Guangyan Cai, Fujun Luan, Miloš Hašan, Kai Zhang, Sai Bi, Zexiang Xu, Iliyan Georgiev, Shuang Zhao
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2408.06878)
 
 <br>
 
