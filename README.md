@@ -236,6 +236,18 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 <br>
 
+## DVGO-based Inverse Rendering
+
+### 1. Neural-PBIR Reconstruction of Shape, Material, and Illumination
+
+**Authors**: Cheng Sun, Guangyan Cai, Zhengqin Li, Kai Yan, Cheng Zhang, Carl Marshall, Jia-Bin Huang, Shuang Zhao, Zhao Dong
+
+**Publication**: ICCV 2023
+
+[📄 Paper](https://arxiv.org/abs/2304.13445) | [🌐 Project Page](https://neural-pbir.github.io/) | [💻 Code (comming soon...) ]() 
+
+<br>
+
 ## TensoRF-based Inverse Rendering
 
 ### 1. TensoIR: Tensorial Inverse Rendering
