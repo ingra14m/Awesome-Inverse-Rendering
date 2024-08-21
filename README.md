@@ -19,6 +19,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 - [NeuS-based Inverse Rendering](#neus-based-inverse-rendering)
 - [IDR-based Inverse Rendering](#idr-based-inverse-rendering)
 - [DMTet-based Inverse Rendering](#dmtet-based-inverse-rendering)
+- [DVGO-based Inverse Rendering](#dvgo-based-inverse-rendering)
 - [TensoRF-based Inverse Rendering](#tensorf-based-inverse-rendering)
 - [Instant-NGP-based Inverse Rendering](#instant-ngp-based-inverse-rendering)
 - [Diffusion Prior](#diffusion-prior)
