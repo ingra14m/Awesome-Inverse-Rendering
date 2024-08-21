@@ -15,6 +15,7 @@ Part of this repo is referenced from [Awesome-InverseRendering](https://github.c
 ## Table of contents
 
 - [What is Inverse Rendering](#what-is-inverse-rendering)
+- [Dataset](#dataset)
 - [NeRF-based Inverse Rendering](#nerf-based-inverse-rendering)
 - [NeuS-based Inverse Rendering](#neus-based-inverse-rendering)
 - [IDR-based Inverse Rendering](#idr-based-inverse-rendering)
@@ -34,6 +35,26 @@ Inverse rendering often involves the use of neural networks to approximate the m
 3. **Lighting Estimation:** Inferring the lighting conditions, including the positions and intensities of light sources that illuminate the scene.
 
 <br>
+
+## Dataset
+
+ ### 1. OpenIllumination: A Multi-Illumination Dataset for Inverse Rendering Evaluation on Real Objects
+
+**Authors**: Isabella Liu, Linghao Chen, Ziyang Fu, Liwen Wu, Haian Jin, Zhong Li, Chin Ming Ryan Wong, Yi Xu, Ravi Ramamoorthi, Zexiang Xu, Hao Su
+
+**Publication**: NeurIPS 2023 Datasets and Benchmarks
+
+[📄 Paper](https://arxiv.org/abs/2309.07921) | [🌐 Project Page](https://oppo-us-research.github.io/OpenIllumination/) | [💻 Code](https://github.com/oppo-us-research/OpenIlluminationCapture) 
+
+### 2. Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark
+
+**Authors**: Zhengfei Kuang, Yunzhi Zhang, Hong-Xing Yu, Samir Agarwala, Shangzhe Wu, Jiajun Wu
+
+**Publication**: NeurIPS 2023 Datasets and Benchmarks
+
+[📄 Paper](https://arxiv.org/abs/2310.16044) | [🌐 Project Page](https://stanfordorb.github.io/) | [💻 Code](https://github.com/StanfordORB/Stanford-ORB) 
+
+
 
 ## NeRF-based Inverse Rendering
 
