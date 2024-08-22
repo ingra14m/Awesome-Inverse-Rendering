@@ -54,7 +54,7 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/abs/2310.16044) | [🌐 Project Page](https://stanfordorb.github.io/) | [💻 Code](https://github.com/StanfordORB/Stanford-ORB) 
 
-
+<br>
 
 ## NeRF-based Inverse Rendering
 
