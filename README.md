@@ -377,3 +377,27 @@ Inverse rendering often involves the use of neural networks to approximate the m
 **Publication**: Arxiv 2024
 
 [📄 Paper](https://arxiv.org/pdf/2406.18544)
+
+### 7. PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting
+
+**Authors**: Yijia Guo, Yuanxi Bai, Liwen Hu, Ziyi Guo, Mianzhi Liu, Yu Cai, Tiejun Huang, Lei Ma
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://www.arxiv.org/abs/2408.03538)
+
+### 8. Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting
+
+**Authors**: Keyang Ye, Qiming Hou, Kun Zhou
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2408.07595)
+
+### 9. Subsurface Scattering for 3D Gaussian Splatting
+
+**Authors**: Jan-Niklas Dihlmann, Arjun Majumdar, Andreas Engelhardt, Raphael Braun, Hendrik P.A. Lensch
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://www.arxiv.org/abs/2408.12282) | [🌐 Project Page](https://sss.jdihlmann.com/) | [💻 Code](https://github.com/cgtuebingen/SSS-GS)
