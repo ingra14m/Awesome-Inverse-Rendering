@@ -362,7 +362,15 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/abs/2312.05133) | [🌐 Project Page](https://3dgir.github.io/) | [💻 Code (Not yet)]()
 
-### 5. Differentiable Point-based Inverse Rendering
+### 5. DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading
+
+**Authors**:  Tong Wu, Jia-Mu Sun, Yu-Kun Lai, Yuewen Ma, Leif Kobbelt, Lin Gao
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2404.09412) 
+
+### 6. Differentiable Point-based Inverse Rendering
 
 **Authors**: Hoon-Gyu Chung, Seokjun Choi, Seung-Hwan Baek
 
@@ -370,7 +378,7 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/abs/2312.02480) | [🌐 Project Page](https://hg-chung.github.io/DPIR/) | [💻 Code](https://github.com/hg-chung/DPIR)
 
-### 6. GS-ROR: 3D Gaussian Splatting for Reflective Object Relighting via SDF Priors
+### 7. GS-ROR: 3D Gaussian Splatting for Reflective Object Relighting via SDF Priors
 
 **Authors**: Zuoliang Zhu, Beibei Wang, Jian Yang
 
@@ -378,7 +386,7 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/pdf/2406.18544)
 
-### 7. PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting
+### 8. PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting
 
 **Authors**: Yijia Guo, Yuanxi Bai, Liwen Hu, Ziyi Guo, Mianzhi Liu, Yu Cai, Tiejun Huang, Lei Ma
 
@@ -386,7 +394,7 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://www.arxiv.org/abs/2408.03538)
 
-### 8. Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting
+### 9. Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting
 
 **Authors**: Keyang Ye, Qiming Hou, Kun Zhou
 
@@ -394,7 +402,7 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/abs/2408.07595)
 
-### 9. Subsurface Scattering for 3D Gaussian Splatting
+### 10. Subsurface Scattering for 3D Gaussian Splatting
 
 **Authors**: Jan-Niklas Dihlmann, Arjun Majumdar, Andreas Engelhardt, Raphael Braun, Hendrik P.A. Lensch
 
