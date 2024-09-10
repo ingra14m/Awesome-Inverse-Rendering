@@ -152,6 +152,16 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/abs/2205.15768) | [🌐 Project Page](https://markboss.me/publication/2022-samurai/) | [💻 Code](https://github.com/google/samurai) 
 
+
+
+### 10. Flash Cache: Reducing Bias in Radiance Cache Based Inverse Rendering
+
+**Authors**: Benjamin Attal, Dor Verbin, Ben Mildenhall, Peter Hedman, Jonathan T. Barron, Matthew O'Toole, Pratul P. Srinivasan
+
+**Publication**: ECCV 2024 (Oral)
+
+[📄 Paper](https://www.arxiv.org/abs/2409.05867) | [🌐 Project Page](https://benattal.github.io/flash-cache/) | [💻 Code]()
+
 <br>
 
 ## NeuS-based Inverse Rendering
@@ -409,3 +419,11 @@ Inverse rendering often involves the use of neural networks to approximate the m
 **Publication**: Arxiv 2024
 
 [📄 Paper](https://www.arxiv.org/abs/2408.12282) | [🌐 Project Page](https://sss.jdihlmann.com/) | [💻 Code](https://github.com/cgtuebingen/SSS-GS)
+
+### 11. Efficient Relighting with Triple Gaussian Splatting
+
+**Authors**: Zoubin Bi, Yixin Zeng, Chong Zeng, Fan Pei, Xiang Feng, Kun Zhou, Hongzhi Wu
+
+**Publication**: SIGGRAPH ASIA 2024
+
+[📄 Paper](https://gsrelight.github.io/pdfs/GS3.pdf) | [🌐 Project Page](https://gsrelight.github.io/) | [💻 Code]()
