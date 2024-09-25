@@ -188,11 +188,11 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 
 
-### 3. SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes
+### 3. RobIR: Robust Inverse Rendering for High-Illumination Scenes
 
 **Authors**: Ziyi Yang, Yanzhen Chen, Xinyu Gao, Yazhen Yuan, Yu Wu, Xiaowei Zhou, Xiaogang Jin
 
-**Publication**: It will never be accepted loll
+**Publication**: NeurIPS 2024
 
 **Note**: This is the first paper that directly faces the issue of shadows and materials being unable to be decoupled under strong lighting conditions. The ACES non-linear mapping is crucial for the removal of shadows and indirect illumination.
 
