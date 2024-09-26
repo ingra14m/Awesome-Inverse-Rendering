@@ -330,7 +330,15 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 **Publication**: ECCV 2024
 
-[📄 Paper](https://arxiv.org/abs/2404.11593) | [🌐 Project Page](https://zju3dv.github.io/IntrinsicAnything/) | [💻 Code]()
+[📄 Paper](https://arxiv.org/abs/2404.11593) | [🌐 Project Page](https://zju3dv.github.io/IntrinsicAnything/) | [💻 Code](https://github.com/zju3dv/IntrinsicAnything)
+
+### 3. MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors
+
+**Authors**: Yehonathan Litman, Or Patashnik, Kangle Deng, Aviral Agrawal, Rushikesh Zawar, Fernando De la Torre, Shubham Tulsiani
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2409.15273) | [🌐 Project Page](https://yehonathanlitman.github.io/material_fusion/) | [💻 Code](https://github.com/yehonathanlitman/MaterialFusion)
 
 
 
