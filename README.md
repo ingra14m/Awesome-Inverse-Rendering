@@ -435,3 +435,12 @@ Inverse rendering often involves the use of neural networks to approximate the m
 **Publication**: SIGGRAPH ASIA 2024
 
 [📄 Paper](https://gsrelight.github.io/pdfs/GS3.pdf) | [🌐 Project Page](https://gsrelight.github.io/) | [💻 Code]()
+
+
+### 12. GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering
+
+**Authors**: Hongze Chen, Zehong Lin, Jun Zhang
+
+**Publication**: arXiv 2410.02619
+
+[📄 Paper](https://arxiv.org/pdf/2410.02619) | [🌐 Project Page](https://stopaimme.github.io/GI-GS/) | [💻 Code](https://github.com/stopaimme/GI-GS-official-implementation)
