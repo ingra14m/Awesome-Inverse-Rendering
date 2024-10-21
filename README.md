@@ -444,3 +444,11 @@ Inverse rendering often involves the use of neural networks to approximate the m
 **Publication**: arXiv 2410.02619
 
 [📄 Paper](https://arxiv.org/pdf/2410.02619) | [🌐 Project Page](https://stopaimme.github.io/GI-GS/) | [💻 Code](https://github.com/stopaimme/GI-GS-official-implementation)
+
+### 13. GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting
+
+**Authors**: Shuichang Lai, Letian Huang, Jie Guo, Kai Cheng, Bowen Pan, Xiaoxiao Long, Jiangjing Lyu, Chengfei Lv, Yanwen Guo
+
+**Publication**: ArXiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2410.13349)
