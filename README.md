@@ -322,9 +322,15 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/abs/2310.00362) | [🌐 Project Page](https://vcai.mpi-inf.mpg.de/projects/2023-DPE/) | [💻 Code](https://github.com/LinjieLyu/DPI)
 
+### 2. Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance
 
+**Authors**: Yuto Enyo, Ko Nishino
 
-### 2. IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination
+**Publication**: CVPR 2024 Highlight
+
+[📄 Paper](https://arxiv.org/abs/2312.04529) | [🌐 Project Page](https://vision.ist.i.kyoto-u.ac.jp/research/drm/) | [💻 Code](https://github.com/kyotovision-public/DRMNet)
+
+### 3. IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination
 
 **Authors**: Xi Chen, Sida Peng, Dongchen Yang, Yuan Liu, Bowen Pan, Chengfei Lv, Xiaowei Zhou
 
@@ -332,7 +338,8 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 [📄 Paper](https://arxiv.org/abs/2404.11593) | [🌐 Project Page](https://zju3dv.github.io/IntrinsicAnything/) | [💻 Code](https://github.com/zju3dv/IntrinsicAnything)
 
-### 3. MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors
+
+### 4. MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors
 
 **Authors**: Yehonathan Litman, Or Patashnik, Kangle Deng, Aviral Agrawal, Rushikesh Zawar, Fernando De la Torre, Shubham Tulsiani
 
