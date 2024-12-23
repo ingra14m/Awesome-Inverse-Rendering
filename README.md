@@ -459,3 +459,7 @@ Inverse rendering often involves the use of neural networks to approximate the m
 **Publication**: ArXiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2410.13349)
+### 14. IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing
+**Author**: Chun Gu, Xiaofei Wei, Zixuan Zeng, Yuxuan Yao, Li Zhang
+**Publication**: Arxiv 2024
+[📄 Paper](https://arxiv.org/abs/2412.15867) | [🌐 Project Page]([https://gsrelight.github.io/](https://fudan-zvg.github.io/IRGS/)) | [💻 Code](https://github.com/fudan-zvg/IRGS)
