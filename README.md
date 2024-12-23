@@ -465,4 +465,4 @@ Inverse rendering often involves the use of neural networks to approximate the m
 
 **Publication**: Arxiv 2024
 
-[📄 Paper](https://arxiv.org/abs/2412.15867) | [🌐 Project Page]([https://gsrelight.github.io/](https://fudan-zvg.github.io/IRGS/)) | [💻 Code](https://github.com/fudan-zvg/IRGS)
+[📄 Paper](https://arxiv.org/abs/2412.15867) | [🌐 Project Page](https://gsrelight.github.io/) | [💻 Code](https://github.com/fudan-zvg/IRGS)
