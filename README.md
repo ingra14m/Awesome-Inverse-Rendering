@@ -459,7 +459,16 @@ Inverse rendering often involves the use of neural networks to approximate the m
 **Publication**: ArXiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2410.13349)
-### 14. IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing
+
+### 14. GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering
+
+**Author**: Kai Ye, Chong Gao, Guanbin Li, Wenzheng Chen, Baoquan Chen
+
+**Publication**: Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2410.24204) | [🌐 Project Page](https://pku-vcl-geometry.github.io/GeoSplatting/) | [💻 Code](https://github.com/PKU-VCL-Geometry/geosplatting)
+
+### 15. IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing
 
 **Author**: Chun Gu, Xiaofei Wei, Zixuan Zeng, Yuxuan Yao, Li Zhang
 
